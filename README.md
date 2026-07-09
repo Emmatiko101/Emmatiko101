@@ -9,7 +9,7 @@
 </h1>
 
 <h3 align="center">
-  Business Information Systems Enthusiast •  Full-Stack Explorer •  Garuda Hyprland
+  Business Information Systems Enthusiast  •  Full-Stack Explorer  •  Garuda Hyprland
 </h3>
 
 <p align="center">
