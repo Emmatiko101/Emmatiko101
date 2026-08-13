@@ -101,7 +101,7 @@
 # 📄 DECLARATION
 
 <p>
-By the power vested in me, by me 😎🤏, I hereby declare that the above information truly (I mean <i>honestly</i>) reflects my taste in programming and activity on this aah platform.
+By the power vested in me, by me 😎🤏, I hereby declare that the above information truly (I mean <i>honestly</i>) reflects my taste in programming and activity on this platform.
 </p>
 
 <p>
